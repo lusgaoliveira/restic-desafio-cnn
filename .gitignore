@@ -1,0 +1,10 @@
+cropped_sketch/
+original_sketch/
+photo/
+photo_points/
+photos/
+sketch/
+sketch_points/
+sketches/
+*.zip
+*.csv
