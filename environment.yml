@@ -1,0 +1,14 @@
+name: meu_ambiente
+dependencies:
+  - python=3.9
+  - jupyter
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - numpy
+  - tensorflow
+  - pillow
+  - pip
+  - pip:
+      - keras
